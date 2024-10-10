@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+   
+}
+h1{
+    font-size: 65px;
+    color: bisque;
+   
+}
+li{
+    background-color: rgb(26, 24, 24);
+    font-size: 40px;
+    padding: 50px;
+    border: 10px solid rgb(58, 56, 56);
+    width: 50%;
+
+}
